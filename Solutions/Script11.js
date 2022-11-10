@@ -1,0 +1,1 @@
+document.querySelector('.icon-logo').style.backgroundImage = "url('https://ineuron.ai/images/ineuron-logo.png')"
